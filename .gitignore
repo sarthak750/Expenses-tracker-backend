@@ -1,0 +1,10 @@
+
+*.swp
+*.swo
+# dotenv environment variables file
+.env
+.env.test
+.env.production
+# Dependency directories
+node_modules/*
+package-lock.json
